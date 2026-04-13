@@ -1,9 +1,17 @@
-TESTE 1:
-Cenário: Login válido
-Entrada: email correto + senha correta
-Resultado esperado: acesso ao sistema
+# Projeto de Testes QA - Login
 
-TESTE 2:
-Cenário: Senha incorreta
-Entrada: email correto + senha errada
-Resultado esperado: mensagem de erro
+## Objetivo
+Realizar testes manuais em um sistema de login para identificar falhas e validar funcionalidades.
+
+## Testes realizados
+- Login com dados corretos
+- Login com senha incorreta
+- Campos vazios
+- Validação de email inválido
+
+## Resultados
+Foram identificados alguns comportamentos inesperados no sistema.
+
+## Ferramentas utilizadas
+- Testes manuais
+- Análise de comportamento do sistema
