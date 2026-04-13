@@ -1,0 +1,5 @@
+BUG 1:
+Sistema aceita login com campo de senha vazio.
+
+BUG 2:
+Mensagem de erro não aparece ao inserir email inválido.
